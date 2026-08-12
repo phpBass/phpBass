@@ -10,8 +10,7 @@
 * **Front-end:** HTML, CSS, JavaScript
 * **Back-end:** Python
 * **Banco de Dados:** PostgreSQL
-* **Ferramentas:** Git, GitHub, APIs REST
-
+* **Ferramentas:** Git, GitHub
 ---
 
 ### 🌐 Vamos conectar!
